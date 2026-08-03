@@ -39,5 +39,5 @@ Computer Science student interested in Artificial Intelligence, Machine Learning
 
 ## Connect
 
-- GitHub: github.com/NayanGattani
+- GitHub: https://github.com/in/NayanGattani
 - LinkedIn: https://linkedin.com/in/nayangattani
